@@ -6,9 +6,9 @@
     "email": "huzaifamumit2004@gmail.com",
     "phone": "(880) 1880 656 883",
     "url": "https://sayedhmumit.github.io",
-    "summary": "A driven young Bangladeshi biochemistry student actively engaged in interdisciplinary research spanning biochemistry and astrophysics."
+    "summary": "A driven young Bangladeshi biochemistry student actively engaged in interdisciplinary research spanning biochemistry and astrophysics.",
     "location": {
-      "address": " Chittagong",
+      "address": "Chittagong",
       "postalCode": "CTG 4386",
       "city": "Chattogram",
       "countryCode": "Bangladesh",
@@ -28,7 +28,7 @@
       "position": "Virtuoso Undergrad Researcher",
       "url": "https://bbrgustc.wordpress.com",
       "startDate": "2024-10-01",
-      "endDate": ,
+      "endDate": null,
       "summary": "My academic focus covers RNA biology, genomics, immunology, and phytochemistry, supported by active research under the Bangladesh Bioscience Research Group (BBRG)",
       "highlights": ["BBRG"]
     }
@@ -40,21 +40,21 @@
       "position": "Academic Panelist",
       "url": "https://www.cambridge.org/gb/universitypress/academic-panels",
       "startDate": "2025-10-27",
-      "endDate": ,
+      "endDate": null,
       "summary": "The academic landscape is changing and to help ensure to continue to meet the needs of authors and researchers Cambridge has put together an online panel.",
       "highlights": ["ACADEMIC PANELIST AT THE CAMBRIDGE PANEL ACADEMIC"]
     }
   ],
   "education": [
     {
-      "institution": "University of Science and Technology Chittagong,Chittagong, Bangladesh",
+      "institution": "University of Science and Technology Chittagong, Chittagong, Bangladesh",
       "location": "Chittagong, Bangladesh",
       "url": "https://ustc.ac.bd/",
       "area": "Biochemistry and Biotechnology",
       "studyType": "Bechalor",
       "startDate": "2024-07-01",
-      "endDate": ,
-      "score": "",
+      "endDate": null,
+      "score": null,
       "courses": ["Look at : https://ustc.ac.bd/wp-content/uploads/2022/12/Course-Curriculum-DBB.pdf"]
     }
   ],
@@ -76,17 +76,17 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": ,
-      "date": ,
-      "issuer": ,
-      "url": ,
+      "name": null,
+      "date": null,
+      "issuer": null,
+      "url": null,
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": ,
-      "date": ,
-      "issuer": ,
-      "url": ,
+      "name": null,
+      "date": null,
+      "issuer": null,
+      "url": null,
       "icon": "fa-solid fa-envelope"
     },
     {
@@ -97,17 +97,17 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": .
-      "date": ,
-      "issuer": ,
-      "url": ,
+      "name": null,
+      "date": null,
+      "issuer": null,
+      "url": null,
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": ,
-      "date": ,
-      "issuer": ,
-      "url": ,
+      "name": null,
+      "date": null,
+      "issuer": null,
+      "url": null,
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -123,24 +123,24 @@
       "name": "Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir v1:(2024) | v2:(2025)",
       "publisher": "Research Square",
       "releaseDate": "2024 | 2025",
-      "url": "https://doi.org/10.21203/rs.3.rs-5453339/v2",
+      "url": "https://doi.org/10.21203/rs.3.rs-5453339/v2"
     },
     {
       "name": "Investigation of the Effectiveness of Using Luffa Cylindrica to Reduce Water Consumption in Agriculture (2024)",
       "publisher": "Trends in Ecological and Indoor Environmental Engineering",
       "releaseDate": "2025",
-      "url": "https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html",
+      "url": "https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html"
     }
   ],
   "skills": [
     {
       "name": "AstroPhysics",
-      "level": "",
+      "level": null,
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Gravity",
-        "Fourier Analysis",
+        "Fourier Analysis"
       ]
     }
   ],
@@ -160,27 +160,19 @@
     {
       "name": "AstroPhysics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Gravity",
-      ]
-    }
-    
-      {
-      "name": " Biochemistry",
+      "keywords": ["Quantum Gravity"]
+    },
+    {
+      "name": "Biochemistry",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "RNA Biology",
-        "Immunology",
-        "CRISPR",
-        "Genome",
-      ]
+      "keywords": ["RNA Biology", "Immunology", "CRISPR", "Genome"]
     }
   ],
   "references": [
     {
       "name": "Dr. Md Monirul Islam",
       "icon": "fa-solid fa-laptop",
-      "reference": "Faculty Member, BMB-NSTU, Bangladesh. Postdoc Fellow, Aichi Medical University,Japan. Tutor and Supervisor in College & Research. Contact: shafinbiochemistry@gmail.com | monirul.bmb@nstu.edu.bd"
+      "reference": "Faculty Member, BMB-NSTU, Bangladesh. Postdoc Fellow, Aichi Medical University, Japan. Tutor and Supervisor in College & Research. Contact: shafinbiochemistry@gmail.com | monirul.bmb@nstu.edu.bd"
     },
     {
       "name": "Dr. Jeffrey M. Keefer",
@@ -194,7 +186,7 @@
       "summary": "Gravitational Charge Mechanism role of Space Times and mechanics",
       "highlights": ["Quantum Gravity", "Graviton Charge"],
       "startDate": "2022-01-01",
-      "endDate": "",
+      "endDate": null,
       "url": ""
     }
   ]
