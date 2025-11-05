@@ -2,96 +2,156 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sayed Huzaifa Mumit
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: Bengali, English, Chittagonian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BSc (Hons.)
+      institution: University of Science and Technology Chittagong, Chittagong, Bangladesh
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Pursuing BSc in Biochemistry and Biotechnology
+
+    - title: Research Assistant & Fund Management Officer
+      institution: Bangladesh Bioscience Research Group (BBRG), Chittagong, Bangladesh
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Working in RNA Biology, Genomics, CRISPR, Immunology, and Phytochemistry
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: Bangladesh Bioscience Research Group, Chittagong, Bangladesh
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Conducting research in RNA Biology, Genomics, CRISPR, Immunology, Phytochemistry
+    - title: Independent High School Researcher
+      institution: N/A
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Research in Theoretical Astrophysics (Quantum Gravity), Renewable Energy, and Environmental Science
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
+      year: 2015 - Present
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Medalist, 16th National Bangladesh Astro-Olympiad
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Finalist, Stockholm Junior Water Prize
+    - year: 2024
+      items:
+        - Top-Ranked, People’s Choice - Xylem Global Innovation Challenges
+    - year: 2024
+      items:
+        - Jamboree Award, 10th Bangladesh & 3rd South Asian Association of National Scouts Jamboree
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: RNA Biology
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Genomics & CRISPR
+    - title: Phytochemistry
       items:
-        - Description 1.
-        - Description 2.
+        - Immunology
+    - title: Astrophysics
+      items:
+        - Quantum Gravity
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Scientific Writing, Reading Research Journals, Community Volunteering
+
+- title: Publications & Research
+  type: time_table
+  contents:
+    - title: "Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide"
+      year: 2023 - 2025
+      description:
+        - DOI: [10.33774/coe-2025-lk4r7-v2](https://doi.org/10.33774/coe-2025-lk4r7-v2)
+    - title: "Eco-Friendly Water Purification Using Solar-Powered Distillation and Activated Carbon"
+      year: 2024
+      description:
+        - DOI: [10.33774/coe-2024-ztkpb](https://doi.org/10.33774/coe-2024-ztkpb)
+    - title: "Reduction of Irrigation Water in Agriculture Using Eco-Friendly Biological Sponge from Luffa"
+      year: 2024
+      description:
+        - DOI: [10.13140/RG.2.2.17062.13123](https://doi.org/10.13140/RG.2.2.17062.13123)
+    - title: "Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir"
+      year: 2024 - 2025
+      description:
+        - DOI: [10.21203/rs.3.rs-5453339/v2](https://doi.org/10.21203/rs.3.rs-5453339/v2)
+    - title: "Investigation of the Effectiveness of Using Luffa Cylindrica to Reduce Water Consumption in Agriculture"
+      year: 2024
+      description:
+        - DOI: [10.62622/TEIEE.024.2.4.18-27](https://doi.org/10.62622/TEIEE.024.2.4.18-27)
+    - title: "Prevalence of Iron Deficiency Anemia and Evaluation of Corrected Calcium as a Biochemical Parameter Among Young Adults in Chattogram, Bangladesh"
+      year: 2024
+      description:
+        - Conference Paper: 6th International Conference on Biotechnology in Health and Agriculture
+
+    - title: "Trends in Microbial Culture and Antibiotic Sensitivity in Pediatrics"
+      year: 2024
+      description:
+        - Conference Paper: RURS 1st International Students Conference 2024
+
+    - title: "Using Sponge Gourd for Purifying Microplastics"
+      year: 2024
+      description:
+        - Conference Paper: XYLEM GLOBAL WATER CHALLENGE 2024, Stockholm, Sweden
+
+    - title: "Methane Gas Production from Rainwater and CO2"
+      year: 2023
+      description:
+        - Conference Paper: Stockholm Junior Water Prize 2023
+
+    - title: "Graviton and Anti-Graviton Charges on Space-Time Curvature and Gravitational Dynamics"
+      year: 2025
+      description:
+        - Conference Paper: American Physical Society Physics Summit 2025 (Accepted)
+
+    - title: "Quantum Teleportation"
+      year: 2018
+      description:
+        - Certificate: Stanford University
+
+    - title: "Quantum Communication"
+      year: 2018
+      description:
+        - Certificate: Stanford University
+
+    - title: "Quantum Cryptography"
+      year: 2018
+      description:
+        - Certificate: Stanford University
+
+    - title: "Quantum Computing"
+      year: 2018
+      description:
+        - Certificate: Stanford University
+
+    - title: "Machine Learning"
+      year: 2018
+      description:
+        - Certificate: Stanford University
+
+- title: Scholarly Involvement
+  type: list
+  contents:
+    - Selected Panelist, Cambridge Academic Panel, Cambridge University Press (2025 - Present)
