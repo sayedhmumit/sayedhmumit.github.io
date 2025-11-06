@@ -56,12 +56,12 @@ bib_search: true
 # Dimensions
 max_width: 930px
 
-# TODO: add layout settings (single page vs. multi-page)
+# TODO: add layout settings (single  vs. multi-)
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
+# Display links to the  with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog 
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -171,7 +171,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_s", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Mumit]
+  first_name: [Sayed Huzaifa, SH.]
 
   style: apa
   locale: en
