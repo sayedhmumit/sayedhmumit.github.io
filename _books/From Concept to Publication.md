@@ -1,7 +1,6 @@
 ---
 layout: book-review
-title: From Concept to Publication:
-       A Comprehensive Guide to Preparing a High-Quality Research Manuscript for International Journals
+title: From Concept to Publication: A Comprehensive Guide to Preparing a High-Quality Research Manuscript for International Journals
 author: Sayed Huzaifa Mumit
 cover: assets/img/book_covers/Book_Cover1.png
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
