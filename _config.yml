@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Mumit]
-  first_name: [Sayed Huzaifa, SH.]
+  first_name: [Sayed_Huzaifa, SH.]
 
   style: apa
   locale: en
