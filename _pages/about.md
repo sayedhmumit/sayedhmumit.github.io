@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='bbrgustc.wordpress.com'>bangladesh bioscience research Group</a>. chittagong. huzaifamumit2004@gmail.com.
+subtitle: <a href='https://bbrgustc.wordpress.com'> Bangladesh Bioscience Research Group</a>. chittagong. huzaifamumit2004@gmail.com.
 subtitle:
-profile: **sayed huzaifa mumit**
+profile: 
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
