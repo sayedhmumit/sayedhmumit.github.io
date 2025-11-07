@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: <a href='bbrgustc.wordpress.com'>Bangladesh Bioscience Research Group</a>. Chittagong. huzaifamumit2004@gmail.com.
 subtitle:
-profile:
+profile: **Sayed Huzaifa Mumit**
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>shmumit.scientist@proton.me</p>
     <p>Chittagong, Bangladesh</p>
