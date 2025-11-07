@@ -421,8 +421,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-from-concept-to-publication-a-comprehensive-guide-to-preparing-a-high-quality-research-manuscript-for-international-journals",
+          title: 'From Concept to Publication- A Comprehensive Guide to Preparing a High-Quality Research Manuscript...',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/From%20Concept%20to%20Publication/";
