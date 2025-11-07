@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bbrgustc.wordpress.com'> Bangladesh Bioscience Research Group</a>. chittagong. huzaifamumit2004@gmail.com.
+subtitle: <a href="https://bbrgustc.wordpress.com">Bangladesh Bioscience Research Group</a>. Bangladesh. huzaifamumit2004@gmail.com 
 subtitle:
 profile: 
   align: right
