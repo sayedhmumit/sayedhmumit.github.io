@@ -27,12 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-About Sayed Huzaifa Mumit, born in Chittagong, Bangladesh, is a young researcher interested in Interdisciplinary Fields
-
-. Biochemistry
-
-. Astrophysics
-
-. Biotechnology
-
-Currently pursuing a B.Sc. (Hons.) in Biochemistry and Biotechnology at the University of Science and Technology Chittagong. His academic focus covers RNA biology, genomics, CRISPR, immunology, and phytochemistry, supported by active research under the Bangladesh Bioscience Research Group (BBRG), where he serves as a Research Assistant and Scientific Grants Management Officer. Also, He is now an Academic Panelist at The Cambridge Panel Academic organized by Cambridge University Press.s a peer reviewer for international journals and the author of two educational books—“From Concept to Publication” and “Meta Analysis of Skills”—Huzaifa has also made his mark as an educator and mentor.
+I am an undergraduate student in Biochemistry and Biotechnology with ongoing research in-
+volvement in RNA biology, genomics, immunology, and phytochemistry. Alongside my academic
+work, I have been independently exploring theoretical astrophysics since high school, focusing on
+gravitational dynamics, black hole behavior, and the relationship between spacetime geometry and
+matter. My goal is to build a solid mathematical foundation in classical mechanics, general rel-
+ativity, and quantum theory so I can formalize these theoretical ideas into a testable framework.
+I have presented research in multiple national and international conferences and have experience
+publishing interdisciplinary projects in environmental sustainability and renewable energy. I am
+motivated by long-term curiosity, self-driven learning, and a commitment to connecting scientific
+understanding across fields
