@@ -9,6 +9,6 @@ scholar_userid: 3d5nyc0AAAAJ&hl # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  logo: https://sayedhuzaifamumit.wordpress.com/wp-content/uploads/2025/12/screenshot-2025-12-10-at-18-32-11-whatsapp-business-e1766581315469.png # can be png, svg, jpg
   title: Blog Site
   url: https://sayedhuzaifamumit.wordpress.com/
