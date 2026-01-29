@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Mumit-CV.pdf", "_blank");
+          window.open("/assets/pdf/Mumit_CV-6.pdf", "_blank");
         },
       },{
         id: 'social-email',
