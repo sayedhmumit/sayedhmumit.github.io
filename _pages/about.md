@@ -8,8 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> huzaifa.dbb@ustc.ac.bd</p>
-    <p> 4203-Chittagong, Bangladesh</p>
+    <p> Academic Email: huzaifa.dbb@ustc.ac.bd</p>
+    <p> Personal Email: shmumit.scientist@proton.me </p>
+    <p> 4203-Chittagong, Bangladesh </p>
     <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
