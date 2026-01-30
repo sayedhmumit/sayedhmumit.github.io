@@ -2,7 +2,7 @@
 layout: about
 title: Sayed Huzaifa Mumit
 permalink: /
-subtitle: <a href='#'> **Department of Biophysics**,The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
+subtitle: <a href='#'> *Department of Biophysics*,***The Bangladesh Bioscience Research Group*** </a>. Chittagong, Bangladesh.
 profile:
   align: right
   image: prof_pic.jpg
