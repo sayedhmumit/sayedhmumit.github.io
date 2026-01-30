@@ -15,9 +15,9 @@ cv:
       username: "sayed-huzaifa"
 
   address:
-    street: ""
+    street:
     city: "Chattogram"
-    region: "Chattogram"
+    region: "Chittagong"
     postalCode: "4203"
     countryCode: "BD"
 
