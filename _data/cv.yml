@@ -1,165 +1,161 @@
 cv:
-  name: Sayed Huzaifa Mumit
-  label: Scientist
-  email: huzaifa.dbb@ustc.ac.bd
-  location: Chittagong, BD
+  name: "Sayed Huzaifa Mumit"
+  label: "Scientist"
+  email: "huzaifa.dbb@ustc.ac.bd"
+  location: "Chattogram, BD"
   image: ""
-  summary: A Bangladeshi-born Young Researcher, Studying in Biochemistry and Biotechnology. Working on Biophysics (BBRG) along with Theoretical Astrophysics (Independent).
+  summary: "Bangladeshi researcher studying Biochemistry & Biotechnology. Working on Biophysics (BBRG) and Theoretical Astrophysics (Independent)."
+
   social_networks:
-    - network: X
-      username: mumitsayed
-    - network: GitHub
-      username: sayedhmumit
-    - network: LinkedIn
-      username: sayed-huzaifa
+    - network: "X"
+      username: "mumitsayed"
+    - network: "GitHub"
+      username: "sayedhmumit"
+    - network: "LinkedIn"
+      username: "sayed-huzaifa"
 
   address:
-    street: 
-    city: Chattogram
-    region: Chittagong
-    postalCode: ctg- 4203
-    countryCode: BD
+    street: ""
+    city: "Chattogram"
+    region: "Chattogram"
+    postalCode: "4203"
+    countryCode: "BD"
 
   sections:
     Education:
-      - institution: UNIVERSITY OF SCIENCE & TECHNOLOGY CHITTAGONG (USTC)
-        location: Chittagong, Bangladesh
-        url: https://www.ustc.ac.bd/
-        area: Biochemistry & Biotechnology 
-        studyType: B.S.(Honors)
-        start_date: 2024
-        end_date: 2028
+      - institution: "University of Science & Technology Chittagong (USTC)"
+        location: "Chattogram, Bangladesh"
+        url: "https://www.ustc.ac.bd/"
+        area: "Biochemistry & Biotechnology"
+        studyType: "B.S. (Honors)"
+        start_date: "2024"
+        end_date: "2028"
         score: "3.73/4"
-        courses: "
+        courses: ""
         highlights:
-          - Description 1. GENOMICS, IMMUNOLOGY
-          - Description 2. COMPUTATIONAL BIOLOGY 
-
-      - institution: 
-        location: 
-        area: 
-        studyType: 
-        start_date: 
-        end_date: 
-        highlights:
-          
+          - "Genomics, Immunology"
+          - "Computational Biology"
 
     Experience:
-      - company: THE BANGLADESH BIOSCIENCE RESEARCH GROUP (BBRG)
-        position: Research Assistant of Biochemistry & Biotechnology
-        location: USTC & NSTU, BD
-        start_date: 2024
-        end_date: present
-        summary: Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration.
-        highlights:
-          
-  
-      - company: Deviation Scientific Society (
-        position: Olympiad Mentor Academic in Earth Science & Physics
-        location: Dhaka, Bangladesh
-        start_date: 2023
-        end_date: 
+      - company: "Bangladesh Bioscience Research Group (BBRG)"
+        position: "Research Assistant (Biochemistry & Biotechnology)"
+        location: "USTC & NSTU, Bangladesh"
+        start_date: "2024"
+        end_date: "present"
+        summary: "Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration."
+        highlights: []
 
-      - company: International Astronomical Union
-        position: IAU OAO Venture Translator
-        location: INTERNATIOANL
-        start_date: 2024
-        end_date: 2024
+      - company: "Deviation Scientific Society"
+        position: "Olympiad Mentor (Earth Science & Physics)"
+        location: "Dhaka, Bangladesh"
+        start_date: "2023"
+        end_date: ""
+        summary: ""
+        highlights: []
 
-      - company: Bangladesh Scouts
-        position: Senior Patrol Leader in hattogram Metropolitan Scouts 
-        location: Chittagong, Bangladesh 
-        start_date: 2018
-        end_date: 2021
+      - company: "International Astronomical Union (IAU)"
+        position: "OAO Venture Translator"
+        location: "International"
+        start_date: "2024"
+        end_date: "2024"
+        summary: ""
+        highlights: []
+
+      - company: "Bangladesh Scouts"
+        position: "Senior Patrol Leader (Chattogram Metropolitan Scouts)"
+        location: "Chattogram, Bangladesh"
+        start_date: "2018"
+        end_date: "2021"
+        summary: ""
+        highlights: []
 
     Volunteer:
-      - company: The Cambridge Panel Academic
-        position: Remote Academic Contributor
-        location: Cambridge University Press, UK
-        start_date: 2025-10-01
-        end_date: 
-        summary: Evaluate in surveys, focus groups, and discussions, influencing pedagogical resources and earning rewards for their insig
-        highlights:
-          
+      - company: "The Cambridge Panel"
+        position: "Remote Academic Contributor"
+        location: "Cambridge University Press, UK"
+        start_date: "2025-10-01"
+        end_date: ""
+        summary: "Participate in surveys, focus groups, and discussions that inform pedagogical resources."
+        highlights: []
 
     Awards:
-      - title: Medalist in Astro-Olympiad
+      - title: "Medalist in Astro-Olympiad"
         authors:
-          - "Bangladesh Astrnomical Association"
-        date: 1922-12
-        awarder: Bangladesh Astrnomical Association
-        url: 
-        summary: 17th National Astro-Olympiad Bangladesh,and Selected for the International Astronomy OLympiad,Beijing, China.'
+          - "Bangladesh Astronomical Association"
+        date: "2022-12"
+        awarder: "Bangladesh Astronomical Association"
+        url: ""
+        summary: "17th National Astro-Olympiad Bangladesh; selected for the International Astronomy Olympiad, Beijing, China."
 
-      - title: National Finalist in Research SJWPBD23
+      - title: "National Finalist (SJWPBD23)"
         authors:
           - "Stockholm Junior Water Prize"
-        date: 20233
-        awarder: Stockholm Junior Water Prize
-        summary: Awarded for outstanding scientific Research on Water Manaement and ENvironemental Science During High School.
+        date: "2023"
+        awarder: "Stockholm Junior Water Prize"
+        url: ""
+        summary: "Recognized for research on water management and environmental science during high school."
 
     Publications:
-      - title:  Investigation of the Effectiveness of Using Luffa Cylindrica to Reduce Water Consumption in Agriculture
+      - title: "Investigation of the Effectiveness of Using Luffa cylindrica to Reduce Water Consumption in Agriculture"
         authors:
-          - Alman Sikder, Sayed Huzaifa Mumit
-        publisher: TEIEE
-        releaseDate: 1925
-        url: https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html
-        summary: Improving soil moisture retention in rice paddies. By utilizing the fibrous structure of dry Luffa cylindrica, water losses due to evapotranspiration and seepage were significantly reduced, resulting in substantial water savings and reduced costs for farmers. The eco-friendliness and cost-effectiveness of Luffa cylindrica highlights its potential as a sustainable water management solution for agricultural practices. Its availability and ease of cultivation make it a viable option for farmers, with minimal investment required to implement the technique on a large scale.
+          - "Alman Sikder"
+          - "Sayed Huzaifa Mumit"
+        publisher: "TEIEE"
+        releaseDate: "2025"
+        url: "https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html"
+        summary: "Improved soil moisture retention in rice paddies using dried Luffa cylindrica to reduce water loss."
 
-      - title: Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide
+      - title: "Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide"
         authors:
-          -  Sayed Huzaifa Mumit, Sayed Imon Muhit
-        publisher: Cambrodge pen Engage, Cambridge University Press.
-        releaseDate: 2023/4/1
-        url: 10.33774/coe-2025-lk4r7-v2
-        summary: 
-        
-      - title: Innovating Eco-friendly and Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir
+          - "Sayed Huzaifa Mumit"
+          - "Sayed Imon Muhit"
+        publisher: "Cambridge Open Engage, Cambridge University Press"
+        releaseDate: "2023-04-01"
+        url: "10.33774/coe-2025-lk4r7-v2"
+        summary: ""
+
+      - title: "Innovating Eco-friendly and Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir"
         authors:
-          - Md Danesh Rafin, Abrar Galib Ohe, Nuzhat Mahjabin Arpita, Sayed Huzaifa Mumit
-        publisher: Research Square, Springer Nature
-        releaseDate: 2024-2025
-        url: https://www.researchsquare.com/article/rs-5453339/v2
-        summary: 
+          - "Md Danesh Rafin"
+          - "Abrar Galib Ohe"
+          - "Nuzhat Mahjabin Arpita"
+          - "Sayed Huzaifa Mumit"
+        publisher: "Research Square (Springer Nature)"
+        releaseDate: "2024"
+        url: "https://www.researchsquare.com/article/rs-5453339/v2"
+        summary: ""
 
     Skills:
-      - name: Computational Biology
-        level: Master
-        icon: fa-solid fa-hashtag
+      - name: "Computational Biology"
+        level: "Advanced"
+        icon: "fa-solid fa-hashtag"
         keywords: ""
 
     Languages:
-      - name: English
+      - name: "English"
         summary: "Intermediate"
-
-      - name: Bengali
+      - name: "Bengali"
         summary: "Native"
 
     Interests:
-      - name: Biophysics, Genomics, Immunology.
-        icon: fa-solid fa-tag
+      - name: "Biophysics, Genomics, Immunology"
+        icon: "fa-solid fa-tag"
         keywords: ""
-        
-    Certificates:
-      - name: 
-        date: 
-        issuer:
-        icon: 
 
+    Certificates: []
 
     Projects:
-      - name: Computaitonal Genetics Engineering
-        summary:  Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration.
-        highlights:
-        start_date: 2026-01-01
-        end_date: present
+      - name: "Computational Genetics Engineering"
+        summary: "Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration."
+        highlights: []
+        start_date: "2026-01-01"
+        end_date: "present"
 
     References:
-      - name: Dr. Md. Monirul Islam
-        icon: fa-solid fa-laptop
-        reference: Supervisor of the research project and PI of research institute. (Faculty Member, Department of Biochemistry & Molecular Biology, Noakhali University of Science & Technology, Bangladesh.)
+      - name: "Dr. Md. Monirul Islam"
+        icon: "fa-solid fa-laptop"
+        reference: "Supervisor and PI. Faculty, Department of Biochemistry & Molecular Biology, Noakhali University of Science & Technology (NSTU), Bangladesh."
 
-      - name: Professor Dr. Dr. Jeffrey M. Keefer
-        icon: fa-solid fa-thumbtack
-        reference: Advisor at Wikipedia | Mentored during APS Wiki Scientist Course (Adjunct Assistant Professor, New York University, USA. )
+      - name: "Professor Jeffrey M. Keefer, PhD"
+        icon: "fa-solid fa-thumbtack"
+        reference: "Advisor at Wikipedia; mentored during APS Wiki Scientist Course. Adjunct Assistant Professor, New York University, USA."
