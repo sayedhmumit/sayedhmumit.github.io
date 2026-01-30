@@ -49,7 +49,7 @@ cv:
         position: "Olympiad Mentor (Earth Science & Physics)"
         location: "Dhaka, Bangladesh"
         start_date: "2023"
-        end_date: ""
+        end_date: "present"
         summary: ""
         highlights: []
 
@@ -74,7 +74,7 @@ cv:
         position: "Remote Academic Contributor"
         location: "Cambridge University Press, UK"
         start_date: "2025-10-01"
-        end_date: ""
+        end_date: "present"
         summary: "Participate in surveys, focus groups, and discussions that inform pedagogical resources."
         highlights: []
 
