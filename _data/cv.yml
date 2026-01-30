@@ -1,189 +1,165 @@
 cv:
-  name: Albert Einstein
+  name: Sayed Huzaifa Mumit
   label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: huzaifa.dbb@ustc.ac.bd
+  location: Chittagong, BD
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: A Bangladeshi-born Young Researcher, Studying in Biochemistry and Biotechnology. Working on Biophysics (BBRG) along with Theoretical Astrophysics (Independent).
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: mumitsayed
     - network: GitHub
-      username: example
+      username: sayedhmumit
     - network: LinkedIn
-      username: example
+      username: sayed-huzaifa
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Chattogram
+    region: Chittagong
+    postalCode: ctg- 4203
+    countryCode: BD
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: UNIVERSITY OF SCIENCE & TECHNOLOGY CHITTAGONG (USTC)
+        location: Chittagong, Bangladesh
+        url: https://www.ustc.ac.bd/
+        area: Biochemistry & Biotechnology 
+        studyType: B.S.(Honors)
+        start_date: 2024
+        end_date: 2028
+        score: "3.73/4"
+        courses: "
         highlights:
-          - Description 1.
-          - Description 2.
+          - Description 1. GENOMICS, IMMUNOLOGY
+          - Description 2. COMPUTATIONAL BIOLOGY 
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: 
+        location: 
+        area: 
+        studyType: 
+        start_date: 
+        end_date: 
         highlights:
-          - Description 1.
-          - Description 2.
+          - 
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: THE BANGLADESH BIOSCIENCE RESEARCH GROUP (BBRG)
+        position: Research Assistant of Biochemistry & Biotechnology
+        location: USTC & NSTU, BD
+        start_date: 2024
+        end_date: present
+        summary: Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration.
         highlights:
-          - Relativity
-          - Description 2.
+          - 
+  
+      - company: Deviation Scientific Society (
+        position: Olympiad Mentor Academic in Earth Science & Physics
+        location: Dhaka, Bangladesh
+        start_date: 2023
+        end_date: 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: International Astronomical Union
+        position: IAU OAO Venture Translator
+        location: INTERNATIOANL
+        start_date: 2024
+        end_date: 2024
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Bangladesh Scouts
+        position: Senior Patrol Leader in hattogram Metropolitan Scouts 
+        location: Chittagong, Bangladesh 
+        start_date: 2018
+        end_date: 2021
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: The Cambridge Panel Academic
+        position: Remote Academic Contributor
+        location: Cambridge University Press, UK
+        start_date: 2025-10-01
+        end_date: 
+        summary: Evaluate in surveys, focus groups, and discussions, influencing pedagogical resources and earning rewards for their insig
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Medalist in Astro-Olympiad
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Bangladesh Astrnomical Association"
+        date: 1922-12
+        awarder: Bangladesh Astrnomical Association
+        url: 
+        summary: 17th National Astro-Olympiad Bangladesh,and Selected for the International Astronomy OLympiad,Beijing, China.'
 
-      - title: Max Planck Medal
+      - title: National Finalist in Research SJWPBD23
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Stockholm Junior Water Prize"
+        date: 20233
+        awarder: Stockholm Junior Water Prize
+        summary: Awarded for outstanding scientific Research on Water Manaement and ENvironemental Science During High School.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title:  Investigation of the Effectiveness of Using Luffa Cylindrica to Reduce Water Consumption in Agriculture
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Alman Sikder, Sayed Huzaifa Mumit
+        publisher: TEIEE
+        releaseDate: 1925
+        url: https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html
+        summary: Improving soil moisture retention in rice paddies. By utilizing the fibrous structure of dry Luffa cylindrica, water losses due to evapotranspiration and seepage were significantly reduced, resulting in substantial water savings and reduced costs for farmers. The eco-friendliness and cost-effectiveness of Luffa cylindrica highlights its potential as a sustainable water management solution for agricultural practices. Its availability and ease of cultivation make it a viable option for farmers, with minimal investment required to implement the technique on a large scale.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          -  Sayed Huzaifa Mumit, Sayed Imon Muhit
+        publisher: Cambrodge pen Engage, Cambridge University Press.
+        releaseDate: 2023/4/1
+        url: 10.33774/coe-2025-lk4r7-v2
+        summary: 
+        
+      - title: Innovating Eco-friendly and Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Md Danesh Rafin, Abrar Galib Ohe, Nuzhat Mahjabin Arpita, Sayed Huzaifa Mumit
+        publisher: Research Square, Springer Nature
+        releaseDate: 2024-2025
+        url: https://www.researchsquare.com/article/rs-5453339/v2
+        summary: 
 
     Skills:
-      - name: Physics
+      - name: Computational Biology
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: ""
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Intermediate"
+
+      - name: Bengali
+        summary: "Native"
 
     Interests:
-      - name: Physics
+      - name: Biophysics, Genomics, Immunology.
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        keywords: ""
+        
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: 
+        date: 
+        issuer:
+        icon: 
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Computaitonal Genetics Engineering
+        summary:  Computational genomics and RNA biology with a focus on regulatory and immune network modeling using in silico and wet-lab integration.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        start_date: 2026-01-01
+        end_date: present
 
     References:
-      - name: Professor John Doe
+      - name: Dr. Md. Monirul Islam
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Supervisor of the research project and PI of research institute. (Faculty Member, Department of Biochemistry & Molecular Biology, Noakhali University of Science & Technology, Bangladesh.)
 
-      - name: Professor Jane Smith
+      - name: Professor Dr. Dr. Jeffrey M. Keefer
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Advisor at Wikipedia | Mentored during APS Wiki Scientist Course (Adjunct Assistant Professor, New York University, USA. )
