@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-sayed-huzaifa-mumit",
+    title: "Sayed Huzaifa Mumit",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
