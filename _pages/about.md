@@ -34,30 +34,30 @@ Alongside my academic work, I have been independently exploring theoretical astr
 My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks. I am affiliated with the The Bangladesh Bioscience Research Group (BBRG) under the supervision of Dr. Md. Monirul Islam in Department of Biophysics.
 
 ---
-# Research Profile
+Research Profile
 
-## Primary Research Interests and Ongoing Work
+Primary Research Interests and Ongoing Work
 - RNA Biology and Genomics   - CRISPR and Immunology   - Computational Biology and Biophysics  
 - Phytochemistry and Network Pharmacology   - Theoretical Astrophysics and Quantum Gravity  
 
 ---
 
-## Research Experience
+**Research Experiences**
 
-### Bangladesh Bioscience Research Group (BBRG)  
+**Bangladesh Bioscience Research Group (BBRG)**
 **Undergraduate Researcher**  
 *October 2024 – Present*  
 - RNA Biology, Genomics, Immunology, CRISPR  
 - Computational Biology and Molecular Modeling  
 
-### Independent Research  
+**Independent Research**
 *2019 – Present*  
 - Theoretical Astrophysics   - Renewable Energy Systems  
 - Environmental Science and Sustainability  
 
 ---
 
-## Physics & Mathematical Training  
+**Physics & Mathematical Training**
 *(Independent and guided study)*  
 - Quantum Mechanics: Operator Formalism, Hilbert Spaces  
 - General Relativity: Spacetime Geometry, Curvature Models  
@@ -66,7 +66,7 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 
 ---
 
-## Publications & Preprints
+**Publications & Preprints**
 
 1. **Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide**  
    *v1 (2023), v2 (2025)*  
@@ -86,7 +86,7 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 
 ---
 
-## Research Projects
+**Research Projects**
 - **Buoyancy and Thermal Convection in Flame Orientation Under Gravitational Fields** (2019–2020)  
 - **Luffa-Based Depth Filtration for Microplastic Removal**  
   *Finalist, Xylem Global Innovation Challenge (2024)*  
@@ -96,7 +96,7 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 
 ---
 
-## Conference Papers & Presentations
+**Conference Papers & Presentations**
 - **Iron Deficiency Anemia in Young Adults, Chattogram**  
   *6th International Conference on Biotechnology in Health and Agriculture*  
 - **Microbial Culture and Antibiotic Sensitivity in Pediatrics**  
@@ -109,32 +109,30 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
   *APS Physics Summit 2025 (Accepted)*  
 
 ---
-
-## Books & Technical Guides
+**Books & Technical Guides**
 - **From Concept to Publication: A Guide to Preparing Research Manuscripts for International Journals**  
 - **Meta-Analysis of Skills: An All-Inclusive Manual**  
 
 ---
 
-## Academic & Professional Service
+**Academic & Professional Service**
 
-### Peer Reviewer  
+**Peer Reviewer**
 - *International Journal of Plant and Soil Science* (2025)  
 
-### Panelist  
+**Panelist**  
 - *Cambridge University Press, Academic Publishing Panel* (2025–Present)  
 ---
-
-### Research & Computational
+**Research & Computational**
 - Molecular Docking  - Network Pharmacology  - Phytochemical Analysis
 - - LaTeX  - Python  - Cytoscape, AutoDock, SwissADME   - Linux / UNIX Shell  
 
-### Professional
+**Professional**
 - Leadership  - Scientific Communication  - Public Speaking   - Project Coordination  
 
 ---
 
-## Entrepreneurship & Leadership
+**Entrepreneurship & Leadership**
 - **Co-Founder, A TimesM Global** (2023–2025)  
   *Multi-sector startup in e-commerce, education, and digital platforms*  
 - **Co-Founder, Manoshota** (2021–2022)  
@@ -142,33 +140,33 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 
 ---
 
-## Scholarships & Fellowships
+**Scholarships & Fellowships**
 - APS Diversity Forum Scholarship (2024)   - Wiki Scientist Summer Program Scholarship (2024)  
 - Oxbridge Scholarships, University of Oxford & Cambridge (2022, 2023)   - Academia Engineering Publication Grant (2024)  
 - Trends in Ecological & Environmental Engineering Grant (2024)   - AB Memorial Fellowship (2022)  
 
 ---
 
-## Awards & Recognition
+**Awards & Recognition**
 - Medalist, National Bangladesh Astro-Olympiad (2022)   - Finalist, Stockholm Junior Water Prize (2023)  
 - People’s Choice Winner, Xylem Global Innovation Challenge (2024)   - Jamboree Award, South Asian National Scouts Jamboree (2019)  
 - District Essay & Speech Competition Runner-Up (2018)  
 
 ---
 
-## Teaching & Outreach
+**Teaching & Outreach**
 - APS Wiki Scientist, Wikipedia   - IAU Venture Translator, International Astronomical Union  
 - Academic Olympiad Trainer, Deviation Scientific Society   - Senior Patrol Leader, Bangladesh Scouts  
 
 ---
 
-## Professional Memberships
+**Professional Memberships**
 - American Physical Society, Astrophysics Division  - Biophysical Society  
 - American Society for Microbiology   - Wikimedia Foundation (Wiki Scientist)  
 - Singapore Global Network   - BYLC Graduate Network  
 
 ---
 
-## Competitions & Research Challenges
+**Competitions & Research Challenges**
 - MIT SOLVE (International Contestant)  - CERN Beamline for Schools (BL4S)  
 - Bangladesh Mathematical Olympiad (Regional)  - Bangladesh Physics Olympiad (Regional)  
