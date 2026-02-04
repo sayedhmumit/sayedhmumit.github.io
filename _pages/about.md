@@ -2,7 +2,7 @@
 layout: about
 title: Sayed Huzaifa Mumit
 permalink: /
-subtitle: <a href='#'> *Department of Biophysics*,***The Bangladesh Bioscience Research Group*** </a>. Chittagong, Bangladesh.
+subtitle: <a href='thebbrg.wordpress.com'> Department of Biophysics, The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
 profile:
   align: right
   image: prof_pic.jpg
@@ -34,222 +34,141 @@ Alongside my academic work, I have been independently exploring theoretical astr
 My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks. I am affiliated with the The Bangladesh Bioscience Research Group (BBRG) under the supervision of Dr. Md. Monirul Islam in Department of Biophysics.
 
 ---
-Research Profile
+# Research Profile
 
-Primary Research Domains
+## Primary Research Interests and Ongoing Work
+- RNA Biology and Genomics   - CRISPR and Immunology   - Computational Biology and Biophysics  
+- Phytochemistry and Network Pharmacology   - Theoretical Astrophysics and Quantum Gravity  
 
-RNA Biology and Genomics
+---
 
-CRISPR and Immunology
+## Research Experience
 
-Computational Biology and Biophysics
+### Bangladesh Bioscience Research Group (BBRG)  
+**Undergraduate Researcher**  
+*October 2024 – Present*  
+- RNA Biology, Genomics, Immunology, CRISPR  
+- Computational Biology and Molecular Modeling  
 
-Phytochemistry and Network Pharmacology
+### Independent Research  
+*2019 – Present*  
+- Theoretical Astrophysics   - Renewable Energy Systems  
+- Environmental Science and Sustainability  
 
-Theoretical Astrophysics and Quantum Gravity
+---
 
-Research Experience
+## Physics & Mathematical Training  
+*(Independent and guided study)*  
+- Quantum Mechanics: Operator Formalism, Hilbert Spaces  
+- General Relativity: Spacetime Geometry, Curvature Models  
+- Differential Geometry: Manifolds, Tensors, Curvature Tools  
+- Fourier Analysis: Signal Processing and Time-Series Analysis  
 
-Bangladesh Bioscience Research Group (BBRG)
-Undergraduate Researcher
-October 2024 – Present
+---
 
-RNA Biology, Genomics, Immunology, CRISPR
+## Publications & Preprints
 
-Computational Biology and Molecular Modeling
+1. **Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide**  
+   *v1 (2023), v2 (2025)*  
+   DOI: `10.33774/coe-2025-lk4r7`
 
-Independent Research
-2019 – Present
+2. **Eco-Friendly Water Purification Using Solar-Powered Distillation and Activated Carbon**  
+   *Preprint (2024), Expected Journal Publication: 2026*  
+   DOI: `10.33774/coe-2024-ztkpb`
 
-Theoretical Astrophysics
+3. **Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir**  
+   *v1 (2024), v2 (2025)*  
+   DOI: `10.21203/rs.3.rs-5453339/v2`
 
-Renewable Energy Systems
+4. **Effectiveness of Luffa Cylindrica in Reducing Agricultural Water Consumption**  
+   *Journal Article (2024)*  
+   DOI: `10.62622/TEIEE.024.2.4.18-27`
 
-Environmental Science and Sustainability
+---
 
-Physics & Mathematical Training
+## Research Projects
+- **Buoyancy and Thermal Convection in Flame Orientation Under Gravitational Fields** (2019–2020)  
+- **Luffa-Based Depth Filtration for Microplastic Removal**  
+  *Finalist, Xylem Global Innovation Challenge (2024)*  
+- **In Silico Phytochemical Analysis: Abelmoschus Genus** (2024–2025)  
+- **In Silico Phytochemical Analysis: Colocasia Genus** (2025)  
+- **In Silico Phytochemical Analysis: Samanea Genus** (2025)  
 
-Quantum Mechanics (Operator Formalism, Hilbert Spaces)
+---
 
-General Relativity (Spacetime Geometry, Curvature Models)
+## Conference Papers & Presentations
+- **Iron Deficiency Anemia in Young Adults, Chattogram**  
+  *6th International Conference on Biotechnology in Health and Agriculture*  
+- **Microbial Culture and Antibiotic Sensitivity in Pediatrics**  
+  *RURS International Students Conference 2024*  
+- **Microplastic Purification Using Sponge Gourd**  
+  *Xylem Global Water Challenge, Stockholm*  
+- **Methane Production from Rainwater and CO₂**  
+  *Stockholm Junior Water Prize 2023*  
+- **Graviton and Anti-Graviton Charges in Space-Time Dynamics**  
+  *APS Physics Summit 2025 (Accepted)*  
 
-Differential Geometry (Manifolds, Tensors, Curvature Tools)
+---
 
-Fourier Analysis (Signal Processing and Time-Series Analysis)
+## Books & Technical Guides
+- **From Concept to Publication: A Guide to Preparing Research Manuscripts for International Journals**  
+- **Meta-Analysis of Skills: An All-Inclusive Manual**  
 
-Publications & Preprints
+---
 
-Methane Production via Sabatier Reaction Using Hydrogen from Rainwater Electrolysis and Captured Carbon Dioxide
-v1 (2023), v2 (2025)
-DOI: 10.33774/coe-2025-lk4r7
+## Academic & Professional Service
 
-Eco-Friendly Water Purification Using Solar-Powered Distillation and Activated Carbon
-Preprint (2024)
-Expected Journal Publication: 2026
-DOI: 10.33774/coe-2024-ztkpb
+### Peer Reviewer  
+- *International Journal of Plant and Soil Science* (2025)  
 
-Sustainable Diapers and Pads from Water Hyacinth and Coconut Coir
-v1 (2024), v2 (2025)
-DOI: 10.21203/rs.3.rs-5453339/v2
+### Panelist  
+- *Cambridge University Press, Academic Publishing Panel* (2025–Present)  
+---
 
-Effectiveness of Luffa Cylindrica in Reducing Agricultural Water Consumption
-Journal Article (2024)
-DOI: 10.62622/TEIEE.024.2.4.18-27
+### Research & Computational
+- Molecular Docking  - Network Pharmacology  - Phytochemical Analysis
+- - LaTeX  - Python  - Cytoscape, AutoDock, SwissADME   - Linux / UNIX Shell  
 
-Research Projects
+### Professional
+- Leadership  - Scientific Communication  - Public Speaking   - Project Coordination  
 
-Buoyancy and Thermal Convection in Flame Orientation Under Gravitational Fields (2019–2020)
+---
 
-Luffa-Based Depth Filtration for Microplastic Removal
-Finalist, Xylem Global Innovation Challenge (2024)
+## Entrepreneurship & Leadership
+- **Co-Founder, A TimesM Global** (2023–2025)  
+  *Multi-sector startup in e-commerce, education, and digital platforms*  
+- **Co-Founder, Manoshota** (2021–2022)  
+  *Global mental health consulting, assisted 5,700 individuals*  
 
-In Silico Phytochemical Analysis: Abelmoschus Genus (2024–2025)
+---
 
-In Silico Phytochemical Analysis: Colocasia Genus (2025)
+## Scholarships & Fellowships
+- APS Diversity Forum Scholarship (2024)   - Wiki Scientist Summer Program Scholarship (2024)  
+- Oxbridge Scholarships, University of Oxford & Cambridge (2022, 2023)   - Academia Engineering Publication Grant (2024)  
+- Trends in Ecological & Environmental Engineering Grant (2024)   - AB Memorial Fellowship (2022)  
 
-In Silico Phytochemical Analysis: Samanea Genus (2025)
+---
 
-Conference Papers & Presentations
+## Awards & Recognition
+- Medalist, National Bangladesh Astro-Olympiad (2022)   - Finalist, Stockholm Junior Water Prize (2023)  
+- People’s Choice Winner, Xylem Global Innovation Challenge (2024)   - Jamboree Award, South Asian National Scouts Jamboree (2019)  
+- District Essay & Speech Competition Runner-Up (2018)  
 
-Iron Deficiency Anemia in Young Adults, Chattogram
-6th International Conference on Biotechnology in Health and Agriculture
+---
 
-Microbial Culture and Antibiotic Sensitivity in Pediatrics
-RURS International Students Conference 2024
+## Teaching & Outreach
+- APS Wiki Scientist, Wikipedia   - IAU Venture Translator, International Astronomical Union  
+- Academic Olympiad Trainer, Deviation Scientific Society   - Senior Patrol Leader, Bangladesh Scouts  
 
-Microplastic Purification Using Sponge Gourd
-Xylem Global Water Challenge, Stockholm
+---
 
-Methane Production from Rainwater and CO₂
-Stockholm Junior Water Prize 2023
+## Professional Memberships
+- American Physical Society, Astrophysics Division  - Biophysical Society  
+- American Society for Microbiology   - Wikimedia Foundation (Wiki Scientist)  
+- Singapore Global Network   - BYLC Graduate Network  
 
-Graviton and Anti-Graviton Charges in Space-Time Dynamics
-APS Physics Summit 2025 (Accepted)
+---
 
-Books
-
-From Concept to Publication: A Guide to Preparing Research Manuscripts for International Journals
-
-Meta-Analysis of Skills: An All-Inclusive Manual
-
-Academic & Professional Service
-
-Peer Reviewer
-
-International Journal of Plant and Soil Science (2025)
-
-Panelist
-
-Cambridge University Press, Academic Publishing Panel (2025–Present)
-
-Digital Research Profiles
-
-Google Scholar
-
-ORCID
-
-ResearchGate
-
-Web of Science
-
-GitHub
-
-Academia.edu
-
-LinkedIn
-
-Skills
-
-Research & Computational
-
-Molecular Docking
-
-Network Pharmacology
-
-Phytochemical Analysis
-
-LaTeX
-
-Python
-
-Cytoscape, AutoDock, SwissADME
-
-Linux / UNIX Shell
-
-Professional
-
-Leadership
-
-Scientific Communication
-
-Public Speaking
-
-Project Coordination
-
-Entrepreneurship & Leadership
-
-Co-Founder, A TimesM Global (2023–2025)
-Multi-sector startup in e-commerce, education, and digital platforms
-
-Co-Founder, Manoshota (2021–2022)
-Global mental health consulting, assisted 5,700 individuals
-
-Scholarships & Fellowships
-
-APS Diversity Forum Scholarship (2024)
-
-Wiki Scientist Summer Program Scholarship (2024)
-
-Oxbridge Scholarships, University of Oxford & Cambridge (2022, 2023)
-
-Academia Engineering Publication Grant (2024)
-
-Trends in Ecological & Environmental Engineering Grant (2024)
-
-AB Memorial Fellowship (2022)
-
-Awards & Recognition
-
-Medalist, National Bangladesh Astro-Olympiad (2022)
-
-Finalist, Stockholm Junior Water Prize (2023)
-
-People’s Choice Winner, Xylem Global Innovation Challenge (2024)
-
-Jamboree Award, South Asian National Scouts Jamboree (2019)
-
-District Essay & Speech Competition Runner-Up (2018)
-
-Teaching & Outreach
-
-APS Wiki Scientist, Wikipedia
-
-IAU Venture Translator, International Astronomical Union
-
-Academic Olympiad Trainer, Deviation Scientific Society
-
-Senior Patrol Leader, Bangladesh Scouts
-
-Professional Memberships
-
-American Physical Society, Astrophysics Division
-
-Biophysical Society
-
-American Society for Microbiology
-
-Wikimedia Foundation (Wiki Scientist)
-
-Singapore Global Network
-
-BYLC Graduate Network
-
-Competitions & Research Challenges
-
-MIT SOLVE (International Contestant)
-
-CERN Beamline for Schools (BL4S)
-
-Bangladesh Mathematical Olympiad (Regional)
-
-Bangladesh Physics Olympiad (Regional)
+## Competitions & Research Challenges
+- MIT SOLVE (International Contestant)  - CERN Beamline for Schools (BL4S)  
+- Bangladesh Mathematical Olympiad (Regional)  - Bangladesh Physics Olympiad (Regional)  
