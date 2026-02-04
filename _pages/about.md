@@ -32,6 +32,7 @@ I am an undergraduate student in Biochemistry and Biotechnology at the Universit
 Alongside my academic work, I have been independently exploring theoretical astrophysics since high school, focusing on gravitational dynamics, black hole behavior, and the relationship between spacetime geometry and matter.
 
 My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks. I am affiliated with the The Bangladesh Bioscience Research Group (BBRG) under the supervision of Dr. Md. Monirul Islam in Department of Biophysics.
+
 ---
 Research Profile
 
