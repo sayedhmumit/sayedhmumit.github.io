@@ -1,55 +1,52 @@
-# Academic Portfolio Website
+# sayedhmumit.github.io
 
-A clean, fast, and responsive academic portfolio website built with **Jekyll** and deployed on **GitHub Pages**.  
-This repository contains the source code and content for my personal website (publications, projects, CV, and updates).
+Source code for my personal academic website, hosted on GitHub Pages.
 
-## Live Site
-- Website: https://YOUR_USERNAME.github.io/ (or your custom domain)
+**Live site:** https://sayedhmumit.github.io
 
-## What’s Included
-- **Home**: short bio + highlights
-- **Publications**: BibTeX-driven list with optional links (PDF, code, DOI, arXiv, etc.)
-- **Projects**: featured work with images and descriptions
-- **CV**: YAML/JSON-based CV page (depending on configuration)
-- **News/Updates**: lightweight posts for announcements
-- **Responsive design**: works well on desktop and mobile
-- **Light/Dark mode** (theme-dependent)
+## Overview
+This repository contains the content and configuration for my portfolio website, including:
+- Research interests and short bio
+- Publications (BibTeX-driven, if enabled)
+- Projects and selected work
+- CV / Resume page
+- News or updates (optional)
+- Blog posts (optional)
 
-## Repository Structure (Quick Map)
-- `_pages/` → main pages (about, publications, projects, cv, etc.)
+## Tech Stack
+- **Jekyll** (static site generator)
+- **GitHub Pages** (deployment/hosting)
+- Theme: **al-folio** (customized)
+
+## Repository Layout (Typical)
+Your repo may not include all of these folders, but most al-folio setups follow this pattern:
+
+- `_pages/` → main pages (about, publications, projects, cv)
+- `_projects/` → project entries
+- `_news/` → short updates (shown on homepage if enabled)
 - `_posts/` → blog posts (optional)
-- `_news/` → short updates shown on the homepage (if enabled)
-- `_projects/` → project entries displayed as a grid
-- `_bibliography/` → BibTeX files for publications
-- `_data/` → structured data (CV, settings, etc.)
-- `assets/` → images, PDFs, and other static files
+- `_bibliography/` → BibTeX files for publications (optional)
+- `_data/` → structured data (CV YAML, settings)
+- `assets/` → images, PDFs, files
 - `_config.yml` → site configuration
 
-## Update Content
-### 1) Profile + Site Info
-Edit:
-- `_config.yml` (name, description, social links, analytics)
-- `about.md` or `_pages/about.md` (bio, photo, research interests)
+## How to Update Content
+### Profile + Links
+Edit `_config.yml` and your about page (commonly `_pages/about.md` or similar).
 
-### 2) Publications
-Edit:
-- `_bibliography/papers.bib`
+### Publications
+If enabled, update your BibTeX in `_bibliography/` (often `papers.bib`).
 
-Optional: attach files in `assets/pdf/` and reference them from BibTeX entries.
+### Projects
+Add or edit Markdown files in `_projects/`.
 
-### 3) Projects
-Add files in:
-- `_projects/`
-
-Each project is a Markdown file with front matter (title, description, image, tags).
-
-### 4) CV
+### CV
 Depending on your setup, update one of:
-- `_data/cv.yml` (YAML CV)
-- `assets/json/resume.json` (JSONResume)
+- `_data/cv.yml`
+- `assets/json/resume.json`
 
-## Local Development
-Requirements: Ruby + Bundler
+## Run Locally
+Requirements: Ruby + Bundler.
 
 ```bash
 bundle install
