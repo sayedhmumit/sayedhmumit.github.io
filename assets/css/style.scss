@@ -1,0 +1,19 @@
+.connections-logos {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}
+
+.connections-logos img {
+  height: 60px;
+  opacity: 0.85;
+  transition: 0.3s ease;
+}
+
+.connections-logos img:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
