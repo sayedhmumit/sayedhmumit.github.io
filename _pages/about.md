@@ -2,7 +2,7 @@
 layout: about
 title: Sayed Huzaifa Mumit
 permalink: /
-subtitle: <a href='thebbrg.wordpress.com'> Department of Biophysics, The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
+subtitle: <a href='https://thebbrg.wordpress.com/'> Department of Biophysics, The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
 profile:
   align: right
   image: prof_pic.jpg
@@ -36,24 +36,3 @@ Alongside my academic work, I have been independently exploring theoretical astr
 My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks. I am affiliated with the The Bangladesh Bioscience Research Group (BBRG) under the supervision of Dr. Md. Monirul Islam in Department of Biophysics.
 
 ---
-<h2>Professional Connections</h2>
-
-<div class="connections-logos">
-  <a href="https://thebbrg.wordpress.com" target="_blank">
-    <img src="/assets/img/bbrg.png" alt="BBRG">
-  </a>
-
-  <a href="https://ustc.ac.bd" target="_blank">
-    <img src="/assets/img/ustc.png" alt="USTC">
-  </a>
-
-  <a href="#" target="_blank">
-    <img src="/assets/img/cambridge.png" alt="Cambridge Panel Academic">
-  </a>
-</div>
-
-<ul>
-  <li><strong>BBRG</strong> – Research in computational biology, docking, network pharmacology</li>
-  <li><strong>USTC</strong> – Undergraduate training in Biochemistry & Biotechnology</li>
-  <li><strong>Cambridge Panel Academic</strong> – Academic contribution</li>
-</ul>
