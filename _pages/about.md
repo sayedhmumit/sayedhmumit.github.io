@@ -43,4 +43,3 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 * Academic contributor, The Cambridge Panel Academic, Cambridge University Press, UK
 
 * Grads. Fellow, APS WIKI Scientist, American Physical Society, USA.
----
