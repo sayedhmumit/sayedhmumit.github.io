@@ -37,10 +37,10 @@ My goal is to build a solid mathematical foundation in classical mechanics, gene
 
 ---
 
-# Researcher & Scientific Grants Management Officer, Bangladesh Bioscience Research Group (BBRG), Bangladesh
+* Researcher & Scientific Grants Management Officer, Bangladesh Bioscience Research Group (BBRG), Bangladesh
+* B.Sc.(Hons) : Biochemistry & Biotechnology, University of Science & Technology Chittagong, Bangladesh.
 
-# B.Sc.(Hons) : Biochemistry & Biotechnology, University of Science & Technology Chittagong, Bangladesh.
+* Academic contributor, The Cambridge Panel Academic, Cambridge University Press, UK
 
-# Academic contributor, The Cambridge Panel Academic, Cambridge University Press, UK
-
-# Grads. Fellow, APS WIKI Scientist, American Physical Society, USA.
+* Grads. Fellow, APS WIKI Scientist, American Physical Society, USA.
+---
