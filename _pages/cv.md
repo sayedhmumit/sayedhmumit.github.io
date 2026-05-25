@@ -8,5 +8,5 @@ cv_pdf: /assets/pdf/Mumit_s_CV_2026_05.pdf # you can also use external links her
 cv_format: rendercv # options: rendercv, jsonresume
 description: This is a description of the page. '_pages/cv.md'.
 toc:
-  sidebar: left
+  sidebar: right
 ---
