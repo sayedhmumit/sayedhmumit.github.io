@@ -96,6 +96,22 @@ cv:
         summary: "Recognized for research on water management and environmental science during high school."
 
     Publications:
+  
+  - title: "In silico Characterization of Bioactive Phytochemicals as Antivirals Targeting the Reovirus σ1 Protein for Inhibiting σ1-Mediated Host Cell Entry"
+authors:
+
+"Eitu Dey"
+"Shipon Dey"
+"Leu Nandi"
+"Sayed Huzaifa Mumit"
+"Refatul Arfat"
+"Saifur Rahman Saif"
+"Md. Monirul Islam"
+publisher: "PLOS ONE"
+releaseDate: "2026"
+url: "https://doi.org/10.1371/journal.pone.0350009"
+summary: "Identified catechin gallate as a promising antiviral candidate against mammalian reovirus through molecular docking, ADMET profiling, molecular dynamics simulations, PCA, and MM/GBSA analyses."
+
       - title: "Investigation of the Effectiveness of Using Luffa cylindrica to Reduce Water Consumption in Agriculture"
         authors:
           - "Alman Sikder"
