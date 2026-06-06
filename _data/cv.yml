@@ -110,14 +110,7 @@ cv:
         url: "https://doi.org/10.1371/journal.pone.0350009"
         summary: "Identified catechin gallate as a promising antiviral candidate against mammalian reovirus through molecular docking, ADMET profiling, molecular dynamics simulations, PCA, and MM/GBSA analyses."
 
-      - title: "Investigation of the Effectiveness of Using Luffa cylindrica to Reduce Water Consumption in Agriculture"
-        authors:
-          - "Alman Sikder"
-          - "Sayed Huzaifa Mumit"
-        publisher: "TEIEE"
-        releaseDate: "2025"
-        url: "https://www.teiee.net/Investigation-of-the-Effectiveness-of-Using-Luffa-Cylindrica-to-Reduce-Water-Consumption,200010,0,2.html"
-        summary: "Improved soil moisture retention in rice paddies using dried Luffa cylindrica to reduce water loss."
+      
       - title: "Investigation of the Effectiveness of Using Luffa cylindrica to Reduce Water Consumption in Agriculture"
         authors:
           - "Alman Sikder"
