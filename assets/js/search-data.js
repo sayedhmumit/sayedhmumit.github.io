@@ -469,7 +469,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Mumit_CV-6.pdf", "_blank");
+          window.open("/assets/pdf/Mumit_s_CV_2026_06.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -477,13 +477,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%68%75%7A%61%69%66%61.%64%62%62@%75%73%74%63.%61%63.%62%64", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -504,7 +497,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://sayedhuzaifamumit.wordpress.com/", "_blank");
+          window.open("https://github.com/sayedhmumit/", "_blank");
         },
       },{
       id: 'light-theme',
