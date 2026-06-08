@@ -2,11 +2,11 @@
 layout: about
 title: Sayed Huzaifa Mumit
 permalink: /
-subtitle: <a href='https://thebbrg.wordpress.com/'> Department of Biophysics, The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
+subtitle: Department of Biophysics, <a href='https://thebbrg.wordpress.com/'> The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> Academic Email: huzaifa.dbb@ustc.ac.bd</p>
     <p> Personal Email: shmumit.scientist@proton.me </p>
@@ -29,17 +29,17 @@ latest_posts:
   
 ---
 
-I am an undergraduate student in Biochemistry and Biotechnology at the University of Science and Technology Chittagong (USTC), Bangladesh, with ongoing research involvement in RNA biology, genomics, immunology, and Computaional Biology.
+I am a Junior Scientist at Department of Biophysics, <a href='https://thebbrg.wordpress.com/'>  The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh. Here i lead a team that works on
+<a href='https://en.wikipedia.org/wiki/Immunotoxicology'> immunotoxocolgy </a> project of <a href='https://thebbrg.wordpress.com/'> BBRG </a>. with ongoing research involvement in RNA biology, genomics, immunology, and Computaional Biology.
 
-Alongside my academic work, I have been independently exploring theoretical astrophysics since high school, focusing on gravitational dynamics, black hole behavior, and the relationship between spacetime geometry and matter.
+Alongside, I have been independently exploring theoretical astrophysics since high school, focusing on <a href='https://imprs.aei.mpg.de/4909/dynamics-radiation'> gravitational dynamics </a>, <a href='https://en.wikipedia.org/wiki/Black_hole'> black hole behavior </a> , and the relationship between <a href= "https://www.sciencedirect.com/science/article/pii/S0393044013000430"> spacetime geometry and matter </a>.
 
 My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks.
 
 ---
+Other Personas:
 
-* Researcher & Scientific Grants Management Officer, Bangladesh Bioscience Research Group (BBRG), Bangladesh
-* B.Sc.(Hons) : Biochemistry & Biotechnology, University of Science & Technology Chittagong, Bangladesh.
-
-* Academic contributor, The Cambridge Panel Academic, Cambridge University Press, UK
-
-* Grads. Fellow, APS WIKI Scientist, American Physical Society, USA.
+* B.Sc.(Hons) : Biochemistry & Biotechnology, <a href='https://ustc.ac.bd/'> University of Science & Technology Chittagong, Bangladesh </a>.
+* Academic contributor,  <a href='https://thepanel.cambridge.org/'> The Cambridge Panel Academic, Cambridge University Press, UK </a>.
+* Grads. Fellow : APS WIKI Scientist, <a href='https://www.aps.org/'> American Physical Society, USA </a>.
+*APS WIKI Scientist: <a href='https://www.wikipedia.org/'> WIKIPEDIA </a>.
