@@ -16,3 +16,13 @@ custom_social:
   logo: https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg
   title: Github
   url : https://github.com/sayedhmumit/
+
+custom_social:
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Sayed-Mumit
+  
+custom_social:
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png
+  title: Facebook
+  url: https://www.facebook.com/Personal.Mumit
