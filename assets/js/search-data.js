@@ -497,7 +497,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/sayedhmumit/", "_blank");
+          window.open("https://www.facebook.com/Personal.Mumit", "_blank");
         },
       },{
       id: 'light-theme',
