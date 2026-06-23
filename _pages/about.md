@@ -42,5 +42,5 @@ Other Personas:
 * B.Sc.(Hons) : Biochemistry & Biotechnology, <a href='https://ustc.ac.bd/'> University of Science & Technology Chittagong, Bangladesh </a>.
 * Academic contributor,  <a href='https://thepanel.cambridge.org/'> The Cambridge Panel Academic, Cambridge University Press, UK </a>.
 * Grads. Fellow : APS WIKI Scientist, <a href='https://www.aps.org/'> American Physical Society, USA </a>.
-*APS WIKI Scientist: <a href='https://www.wikipedia.org/'> WIKIPEDIA </a>.
-*Physics Forums :  <a href='https://www.physicsforums.com/members/sayedhmumit.777087/'> Profile <a/>
+* APS WIKI Scientist: <a href='https://www.wikipedia.org/'> WIKIPEDIA </a>.
+* Physics Forums : <a href='https://www.physicsforums.com/members/sayedhmumit.777087/'> Profile <a/>
