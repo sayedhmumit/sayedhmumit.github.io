@@ -497,7 +497,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.physicsforums.com/members/sayedhmumit.777087/", "_blank");
+          window.open("https://github.com/sayedhmumit/", "_blank");
         },
       },{
       id: 'light-theme',
