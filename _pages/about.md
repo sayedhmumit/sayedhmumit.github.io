@@ -29,12 +29,10 @@ latest_posts:
   
 ---
 
-I am a Junior Scientist at Department of Biophysics, <a href='https://thebbrg.wordpress.com/'>  The Bangladesh Bioscience Research Group </a>. Chittagong, Bangladesh. Here i lead a team that works on
-<a href='https://en.wikipedia.org/wiki/Immunotoxicology'> immunotoxocolgy </a> project of <a href='https://thebbrg.wordpress.com/'> BBRG </a>. with ongoing research involvement in RNA biology, genomics, immunology, and Computaional Biology.
+I'm a Junior Scientist in the Department of Biophysics at the <a href='https://thebbrg.wordpress.com/'>Bangladesh Bioscience Research Group (BBRG)</a>, Chittagong, Bangladesh. Here I lead a team that works on the <a href='https://en.wikipedia.org/wiki/Immunotoxicology'>immunotoxicology</a> project of BBRG  with active research involvement in  <a href='https://en.wikipedia.org/wiki/RNA_biology'>RNA biology</a>,
+<a href='https://en.wikipedia.org/wiki/Genomics'>genomics</a>, <a href='https://en.wikipedia.org/wiki/Immunology'>immunology</a>, and <a href='https://en.wikipedia.org/wiki/Computational_biology'>computational biology</a>.
 
-Alongside, I have been independently exploring theoretical astrophysics since high school, focusing on <a href='https://imprs.aei.mpg.de/4909/dynamics-radiation'> gravitational dynamics </a>, <a href='https://en.wikipedia.org/wiki/Black_hole'> black hole behavior </a> , and the relationship between <a href= "https://www.sciencedirect.com/science/article/pii/S0393044013000430"> spacetime geometry and matter </a>.
-
-My goal is to build a solid mathematical foundation in classical mechanics, general relativity, and quantum theory to formalize theoretical ideas into testable frameworks.
+Since 2019, I've been independently exploring theoretical astrophysics <a href='https://imprs.aei.mpg.de/4909/dynamics-radiation'>gravitational dynamics</a>, <a href='https://en.wikipedia.org/wiki/Black_hole'> black hole behavior</a>, and the <a href='https://www.sciencedirect.com/science/article/pii/S0393044013000430'>relationship between spacetime geometry and matter</a>. I aim to develop rigorous mathematical competency across classical mechanics, general relativity, and quantum theory and apply this formalism to biological systems, translating theoretical constructs into empirically testable frameworks.
 
 ---
 Other Personas:
@@ -43,4 +41,4 @@ Other Personas:
 * Academic contributor,  <a href='https://thepanel.cambridge.org/'> The Cambridge Panel Academic, Cambridge University Press, UK </a>.
 * Grads. Fellow : APS WIKI Scientist, <a href='https://www.aps.org/'> American Physical Society, USA </a>.
 * APS WIKI Scientist: <a href='https://www.wikipedia.org/'> WIKIPEDIA </a>.
-* Physics Forums : <a href='https://www.physicsforums.com/members/sayedhmumit.777087/'> Profile <a/>
+* Physics Forums (<span style="color: gold;">Gold Member</span> ): <a href='https://www.physicsforums.com/members/sayedhmumit.777087/'> PROFILE <a/>
