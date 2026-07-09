@@ -6,7 +6,7 @@ subtitle: Department of Biophysics, <a href='https://thebbrg.wordpress.com/'> Th
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> Academic Email: huzaifa.dbb@ustc.ac.bd</p>
     <p> Personal Email: shmumit.scientist@proton.me </p>
