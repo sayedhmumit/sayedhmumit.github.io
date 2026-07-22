@@ -11,4 +11,3 @@ related_publications: true
 Everyday will update
 
 ```
-{% endraw %}
