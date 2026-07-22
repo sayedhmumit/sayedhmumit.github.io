@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-gravitational-spacetime-in-triangular-merge",
-          title: 'Gravitational Spacetime in Triangular Merge',
-          description: "Discrete geometry, graviton charges, and simplicial decomposition of curved spacetime",
+          section: "News",},{id: "projects-python-for-research",
+          title: 'Python for research',
+          description: "A HAND NOTE OF PYTHON PROGRAMMING LANGUAGE FOR RESEARCH AND TO DEVELOP RESEARCH TOOLS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
