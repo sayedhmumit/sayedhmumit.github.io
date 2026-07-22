@@ -8,6 +8,7 @@ category: work
 related_publications: true
 ---
 
-Everyday will update...
+Everyday will update
+
 ```
 {% endraw %}
