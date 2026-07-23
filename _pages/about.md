@@ -11,6 +11,7 @@ profile:
     <p> Academic Email: huzaifa.dbb@ustc.ac.bd</p>
     <p> Personal Email: shmumit.scientist@proton.me </p>
     <p> 4203-Chittagong, Bangladesh </p>
+    <p>  <a href='https://sayedhuzaifamumit.com/'>  sayedhuzaifamumit.com </a> </p>
     <p> </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
