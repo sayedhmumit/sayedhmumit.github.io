@@ -8,8 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Academic Email: huzaifa.dbb@ustc.ac.bd</p>
-    <p> Personal Email: shmumit.scientist@proton.me </p>
+    <p> Academic Mail: huzaifa.dbb@ustc.ac.bd</p>
+    <p> Personal Mail: shmumit.scientist@proton.me </p>
+    <p> Business Mail: huzaifa.ceo@gnosidoor.com </p>
     <p> 4203-Chittagong, Bangladesh </p>
     <p>  <a href='https://sayedhuzaifamumit.com/'>  sayedhuzaifamumit.com </a> </p>
     <p> </p>
